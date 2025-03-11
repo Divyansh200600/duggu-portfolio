@@ -1,0 +1,148 @@
+{
+    "Web Dev": {
+      "Basics": [
+        {
+          "title": "Portfolio Website",
+          "description": "Personal portfolio using NextJs and Tailwind.",
+          "link": "https://divy4nshchauhan.netlify.app/"
+        },
+        {
+          "title": "Weather App",
+          "description": "NuxtJs with Rest API",
+          "link": "#"
+        },
+      
+          {
+            "title": "To Do List",
+            "description": "Svelte + PostgreSQL",
+            "link": "#"
+          }
+
+      ],
+      "Advanced": [
+        {
+          "title": "Dev Connect(Chat App)",
+          "description": "Create a Developers Chat App using Angular,Bulma,ExpressJs, Rest & GraphQL Api, MySQL,AWS,Docker & Jenkins,AWT",
+          "link": "#"
+        },
+        {
+          "title": "Blog Website",
+          "description": "Blog website with ReactJs and Firebase",
+          "link": "#"
+        },
+        {
+            "title": "Whiteboard",
+            "description": "React+Vite, firebase, Rest API",
+            "link": "#"
+          },
+          {
+            "title": "NetFlix Definitive Edition",
+            "description": "Make a Netflix advanced moded UI version using NextJs, MongoDb",
+            "link": "#"
+          },
+          {
+            "title": "Level UP (Social Media App)",
+            "description": "Make a Social media application for Developers using React, Firebase",
+            "link": "#"
+          }
+
+      ],
+      "God-Level": [
+        {
+          "title": "Virtual OS (Web Based)",
+          "description": "Create a virtual OS using Next js and MongoDB",
+          "link": "#"
+        },
+        {
+          "title": "Volt Talk AI(Like Jarvis)",
+          "description": "Build a Talk AI using NextJs, Python and MongoDb",
+          "link": "#"
+        },
+        {
+            "title": "Github Clone (with all working methods)",
+            "description": "Multi user live coding, Secure code Hosting, Versioning",
+            "link": "#"
+          }
+
+      ]
+    },
+    "DevOps": {
+      "CI/CD": [
+        {
+          "title": "Dockerized App",
+          "description": "Dockerized Node.js & React app.",
+          "link": "#"
+        },
+        {
+          "title": "Jenkins Pipeline",
+          "description": "Automated deployment using Jenkins.",
+          "link": "#"
+        }
+      ],
+      "Cloud & Infra": [
+        {
+          "title": "AWS Lambda Function",
+          "description": "Serverless function on AWS.",
+          "link": "#"
+        },
+        {
+          "title": "Terraform Infra",
+          "description": "Infrastructure automation using Terraform.",
+          "link": "#"
+        }
+      ]
+    },
+    "Data Science": {
+      "Data Analysis": [
+        {
+          "title": "EDA on Titanic Dataset",
+          "description": "Exploratory Data Analysis using Pandas.",
+          "link": "#"
+        },
+        {
+          "title": "Stock Market Prediction",
+          "description": "Time-series analysis on stock data.",
+          "link": "#"
+        }
+      ],
+      "Machine Learning": [
+        {
+          "title": "Image Classification",
+          "description": "CNN model to classify images.",
+          "link": "#"
+        },
+        {
+          "title": "Chatbot AI",
+          "description": "AI chatbot using NLP.",
+          "link": "#"
+        }
+      ]
+    },
+    "AI/ML": {
+      "Deep Learning": [
+        {
+          "title": "GANs for Image Generation",
+          "description": "Generative Adversarial Networks for images.",
+          "link": "#"
+        },
+        {
+          "title": "Neural Style Transfer",
+          "description": "Applying artistic styles to images.",
+          "link": "#"
+        }
+      ],
+      "NLP": [
+        {
+          "title": "Text Summarization",
+          "description": "AI model to summarize text.",
+          "link": "#"
+        },
+        {
+          "title": "Speech Recognition",
+          "description": "Converting speech to text using AI.",
+          "link": "#"
+        }
+      ]
+    }
+  }
+  
