@@ -87,7 +87,7 @@ const About = () => {
 
             {/* Download Resume Button */}
             <motion.a
-              href="https://res.cloudinary.com/dke7sg7em/image/upload/v1741712993/duggu-portfolio/w32snx9wvhjzp3gawpzx.pdf"
+              href="https://rqvuonxarqvwaxnqgwnb.supabase.co/storage/v1/object/public/Portfolio//dugguResume.pdf"
               target="_blank"
               download
               className="relative inline-block px-6 py-3 mt-4 text-lg font-semibold text-white bg-gradient-to-r from-purple-500 to-indigo-500 rounded-lg shadow-md transition-all duration-300 hover:scale-105"
