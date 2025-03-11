@@ -24,6 +24,7 @@ function HomePage() {
       <section id="contact"><Contact /></section>
 
       <ScrollToTop />
+     
     </div>
   );
 }

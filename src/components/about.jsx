@@ -30,7 +30,7 @@ const About = () => {
             <div className="w-60 h-60 lg:w-72 lg:h-72 rounded-full border-[4px] border-purple-500 shadow-lg shadow-purple-300 transform hover:scale-105 transition-all duration-300">
               <img
                 src="https://avatars.githubusercontent.com/u/0000000?v=4"
-                alt="Divyansh Chauhan"
+               
                 className="w-full h-full object-cover rounded-full"
               />
             </div>

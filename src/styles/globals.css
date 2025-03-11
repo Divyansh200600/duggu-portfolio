@@ -29,7 +29,6 @@ html {
 body {
   margin: 0;
   font-family: Arial, sans-serif;
-  cursor: url('/assets/custom-cursor.cur'), auto;
 
 }
 
@@ -65,9 +64,5 @@ body {
   scrollbar-color: #6a11cb #f0f0f0;
 }
 
-
-* {
-  cursor: url('/public/cursor.png'), auto;
-}
 
 
